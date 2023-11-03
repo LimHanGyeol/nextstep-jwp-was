@@ -9,7 +9,7 @@ Legacy 코드를 리팩토링 하며 서비스 개선을 했으며 Java로 동�
 코드리뷰 링크
 * [Step1 - TDD 실습](https://github.com/next-step/jwp-was/pull/269)
 * [Step2 - HTTP 웹 서버 구현](https://github.com/next-step/jwp-was/pull/407)
-* [Step3 - HTTP 웹 서버 리팩토링](github.com/next-step/jwp-was/pull/408)
+* [Step3 - HTTP 웹 서버 리팩토링](https://github.com/next-step/jwp-was/pull/408)
 * [Step4 - 세션 구현하기](https://github.com/next-step/jwp-was/pull/409)
 * [Step5 - Thread Pool 적용](https://github.com/next-step/jwp-was/pull/411)
 
