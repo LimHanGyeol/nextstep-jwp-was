@@ -1,4 +1,18 @@
 # 웹 애플리케이션 서버
+`2022-07-18 ~ 2022-09-29` 진행한 NEXTSTEP 만들면서 배우는 Spring 3기 "웹 서버 구현" 미션 구현 코드입니다.</br>
+Legacy 코드를 리팩토링 하며 서비스 개선을 했으며 Java로 동작하는 Web Application Server를 구현했습니다.
+
+주요 코드
+* [src/main/java/webserver/RequestHandler.java](https://github.com/LimHanGyeol/nextstep-jwp-was/blob/1-readme-%EB%82%B4%EC%9A%A9-%EB%B3%B4%EC%99%84/src/main/java/webserver/RequestHandler.java)
+* [src/main/java/webserver/servlet/DispatcherServlet.java](https://github.com/LimHanGyeol/nextstep-jwp-was/blob/1-readme-%EB%82%B4%EC%9A%A9-%EB%B3%B4%EC%99%84/src/main/java/webserver/servlet/DispatcherServlet.java)
+
+코드리뷰 링크
+* [Step1 - TDD 실습](https://github.com/next-step/jwp-was/pull/269)
+* [Step2 - HTTP 웹 서버 구현](https://github.com/next-step/jwp-was/pull/407)
+* [Step3 - HTTP 웹 서버 리팩토링](github.com/next-step/jwp-was/pull/408)
+* [Step4 - 세션 구현하기](https://github.com/next-step/jwp-was/pull/409)
+* [Step5 - Thread Pool 적용](https://github.com/next-step/jwp-was/pull/411)
+
 ## 진행 방법
 * 웹 애플리케이션 서버 요구사항을 파악한다.
 * 요구사항에 대한 구현을 완료한 후 자신의 github 아이디에 해당하는 브랜치에 Pull Request(이하 PR)를 통해 코드 리뷰 요청을 한다.
