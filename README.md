@@ -3,8 +3,8 @@
 Legacy 코드를 리팩토링 하며 서비스 개선을 했으며 Java로 동작하는 Web Application Server를 구현했습니다.
 
 주요 코드
-* [src/main/java/webserver/RequestHandler.java](https://github.com/LimHanGyeol/nextstep-jwp-was/blob/1-readme-%EB%82%B4%EC%9A%A9-%EB%B3%B4%EC%99%84/src/main/java/webserver/RequestHandler.java)
-* [src/main/java/webserver/servlet/DispatcherServlet.java](https://github.com/LimHanGyeol/nextstep-jwp-was/blob/1-readme-%EB%82%B4%EC%9A%A9-%EB%B3%B4%EC%99%84/src/main/java/webserver/servlet/DispatcherServlet.java)
+* [src/main/java/webserver/RequestHandler.java](https://github.com/LimHanGyeol/nextstep-jwp-was/blob/master/src/main/java/webserver/RequestHandler.java)
+* [src/main/java/webserver/servlet/DispatcherServlet.java](https://github.com/LimHanGyeol/nextstep-jwp-was/blob/master/src/main/java/webserver/servlet/DispatcherServlet.java)
 
 코드리뷰 링크
 * [Step1 - TDD 실습](https://github.com/next-step/jwp-was/pull/269)
